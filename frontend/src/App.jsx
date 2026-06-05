@@ -88,7 +88,7 @@ function App() {
           <div>
           <h2>업로드 이미지</h2>
           <p>message</p>
-          <img src={previewImage} alt="탐지결과이미지" />
+          <img src={resultImage} alt="탐지결과이미지" />
         </div>
         )}
       </section>
